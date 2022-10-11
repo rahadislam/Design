@@ -16,24 +16,24 @@ const Objectives = () => {
                 <div className='w-60  bg-[#EEEEEE] shadow-xl rounded-lg hover:bg-[#F58634]' >
                 <img className='w-60 h-52 rounded-lg' src="https://simmifoundation.org/home/images/objectives/livelihood.jpg" alt="Album"/>
                 <div className='text-center m-3 hover:text-black'>
-                    <h2 className='text-[#F58634] text-xl hover:text-black'>Education</h2>
-                    <p className='text-slate-400 hover:text-black'>We provide free academic education, scholarship, training and other incentives to the children.</p>
+                    <h2 className='text-[#F58634] text-xl hover:text-black'>Livelihood</h2>
+                    <p className='text-slate-400 hover:text-black'>We implement various schemes to provide livelihood and uplift the poor in society.</p>
                     <p className='text-xl mt-4 text-right'>Read more <span>.....</span></p>
                 </div>
                 </div>
                 <div className='w-60  bg-[#EEEEEE] shadow-xl rounded-lg hover:bg-[#F58634]' >
                 <img className='w-60 h-52 rounded-lg' src="https://simmifoundation.org/home/images/objectives/healthcare.jpg" alt="Album"/>
                 <div className='text-center m-3 hover:text-black'>
-                    <h2 className='text-[#F58634] text-xl hover:text-black'>Education</h2>
-                    <p className='text-slate-400 hover:text-black'>We provide free academic education, scholarship, training and other incentives to the children.</p>
+                    <h2 className='text-[#F58634] text-xl hover:text-black'>Healthcare</h2>
+                    <p className='text-slate-400 hover:text-black'>We are increasing awareness on Sanitization and providing people with access to better nutrition, clean water and toilets</p>
                     <p className='text-xl mt-4 text-right'>Read more <span>.....</span></p>
                 </div>
                 </div>
                 <div className='w-60  bg-[#EEEEEE] shadow-xl rounded-lg hover:bg-[#F58634]' >
                 <img className='w-60 h-52 rounded-lg' src="https://simmifoundation.org/home/images/objectives/women%20empowerment.jpg" alt="Album"/>
                 <div className='text-center m-3 hover:text-black'>
-                    <h2 className='text-[#F58634] text-xl hover:text-black'>Education</h2>
-                    <p className='text-slate-400 hover:text-black'>We provide free academic education, scholarship, training and other incentives to the children.</p>
+                    <h2 className='text-[#F58634] text-xl hover:text-black'>Women and Youth Empowerment</h2>
+                    <p className='text-slate-400 hover:text-black'>We focus on providing equal opportunities for women in the work field..</p>
                     <p className='text-xl mt-4 text-right'>Read more <span>.....</span></p>
                 </div>
                 </div>

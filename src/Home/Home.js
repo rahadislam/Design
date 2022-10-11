@@ -1,5 +1,6 @@
 import React from 'react';
 import Bannar from './Bannar';
+import Help from './Help';
 import Info from './Info';
 import Objectives from './Objectives';
 
@@ -50,6 +51,7 @@ const Home = () => {
 <Bannar></Bannar>
 <Info></Info>
 <Objectives></Objectives>
+<Help></Help>
         </div>
     );
 };
