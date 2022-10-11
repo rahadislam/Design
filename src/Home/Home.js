@@ -1,5 +1,6 @@
 import React from 'react';
 import Bannar from './Bannar';
+import Event from './Event';
 import Help from './Help';
 import Info from './Info';
 import Objectives from './Objectives';
@@ -52,6 +53,7 @@ const Home = () => {
 <Info></Info>
 <Objectives></Objectives>
 <Help></Help>
+<Event></Event>
         </div>
     );
 };
